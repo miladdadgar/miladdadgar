@@ -30,7 +30,7 @@
     <animate attributeName="width" values="80;412;80" attributeName2="x" dur="4s" repeatCount="indefinite"/>
   </rect>
   <text x="450" y="145" text-anchor="middle" fill="#C9D8E8" font-family="Arial, sans-serif" font-size="20">
-    SOFTWARE BUILDER · LINUX · OPEN SOURCE
+    LINUX · ANDROID · FLUTTER · JAVA
   </text>
   <text x="450" y="182" text-anchor="middle" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">
     ~13 YEARS OF BUILDING · CREATOR OF MILMIT
