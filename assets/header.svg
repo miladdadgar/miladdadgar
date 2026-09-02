@@ -1,0 +1,44 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#081624"/>
+      <animate attributeName="x1" values="0;180;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="0" x2="780" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F5C451"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+  <g opacity="0.22">
+    <circle cx="90" cy="52" r="3" fill="#38BDF8"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="65" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="840" cy="205" r="3" fill="#F5C451"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <path d="M0 210 C190 150 260 270 455 205 C650 140 725 235 900 170" stroke="#38BDF8" stroke-width="1.5">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 210 C190 150 260 270 455 205 C650 140 725 235 900 170;M0 185 C170 250 310 135 470 205 C650 275 750 130 900 195;M0 210 C190 150 260 270 455 205 C650 140 725 235 900 170"/>
+    </path>
+  </g>
+  <text x="450" y="82" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="1">MILAD DADGAR</text>
+  <rect x="244" y="101" width="412" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="width" values="80;412;80" attributeName2="x" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="145" text-anchor="middle" fill="#C9D8E8" font-family="Arial, sans-serif" font-size="20">
+    SOFTWARE BUILDER · LINUX · OPEN SOURCE
+  </text>
+  <text x="450" y="182" text-anchor="middle" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">
+    ~13 YEARS OF BUILDING · CREATOR OF MILMIT
+    <animate attributeName="opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <g transform="translate(328 205)">
+    <rect width="244" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".16"/>
+    <circle cx="18" cy="15" r="5" fill="#34D399"><animate attributeName="r" values="4;6;4" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="34" y="20" fill="#DDEAF4" font-family="Arial, sans-serif" font-size="13">GOOGLE DEVELOPER PROGRAM MEMBER</text>
+  </g>
+</svg>
