@@ -14,7 +14,7 @@
 
 ## About me
 
-I am **Milad Dadgar**, a software builder with approximately **13 years of programming experience**. I create practical products across Linux desktop software, system utilities, privacy-aware automation, networking, WordPress, WooCommerce, and API integrations.
+I am **Milad Dadgar**, a software builder with approximately **13 years of programming experience**. I create practical products across **Linux**, **Android**, **Flutter**, and **Java**, alongside desktop software, system utilities, privacy-aware automation, networking, WordPress, WooCommerce, and API integrations.
 
 I am the creator of **[MilMit](https://github.com/MilMit)** and a **member of the Google Developer Program**. My work favors clear architecture, honest capability claims, secure privilege boundaries, reproducible releases, and software that solves real problems.
 
@@ -23,6 +23,7 @@ I am the creator of **[MilMit](https://github.com/MilMit)** and a **member of th
 | Area | Technologies and focus |
 | --- | --- |
 | Linux desktop | Rust, GTK4, Libadwaita, Electron |
+| Android and mobile | Android, Flutter, Dart, Java |
 | Web and commerce | WordPress, WooCommerce, PHP, JavaScript |
 | Systems and networks | Linux, VPN, IKEv2, WireGuard, automation |
 | Product engineering | UX, packaging, CI/CD, security, documentation |
@@ -64,13 +65,19 @@ A lightweight Linux utility that extracts NordLynx/WireGuard configurations and 
 </tr>
 </table>
 
-## Research
+## Research & thesis work
 
-My background also includes biomedical research involving **alpha-tocopherol succinate** and nanoparticle-induced cellular damage.
+My graduate research and thesis work focused on **alpha-tocopherol succinate**, alumina nanoparticles, Sertoli cells, oxidative stress, apoptosis, inhibin B, and Connexin 43. The resulting research was published in *Molecular Biology Reports*.
 
-> **“Protective effect of alpha-tocopherol succinate on Al₂O₃-NPs induced damage in NMRI mice Sertoli cells: the role of inhibin B and Connexin 43”**  
-> *Molecular Biology Reports* (2026)  
-> [DOI: 10.1007/s11033-026-11566-8](https://doi.org/10.1007/s11033-026-11566-8) · PMID: 41774233
+> **[Protective effect of alpha-tocopherol succinate on Al₂O₃-NPs induced damage in NMRI mice Sertoli cells: the role of inhibin B and Connexin 43](https://doi.org/10.1007/s11033-026-11566-8)**  
+> Milad Dadgar Naki, Elaheh Amini, Fatemeh Rohollah · *Molecular Biology Reports* (2026)
+
+[![Springer DOI](https://img.shields.io/badge/Springer-Final_article-070707?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.1007/s11033-026-11566-8)
+[![PubMed](https://img.shields.io/badge/PubMed-PMID_41774233-326599?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41774233/)
+[![Research Square](https://img.shields.io/badge/Research_Square-Preprint-00A99D?style=flat-square)](https://doi.org/10.21203/rs.3.rs-7947162/v1)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Publication-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/397449666_Protective_Effect_of_Alpha_Tocopherol_Succinate_on_AlO-NPs_Induced_Damage_in_NMRI_Mice_Sertoli_Cells_The_Role_of_Inhibin_B_and_Connexin_43)
+
+> **Note:** A public institutional record for the thesis itself has not yet been identified. The links above point to the peer-reviewed article, PubMed record, and public preprint derived from the research.
 
 ## Engineering principles
 
@@ -84,7 +91,7 @@ My background also includes biomedical research involving **alpha-tocopherol suc
 
 من **میلاد دادگر** هستم؛ برنامه‌نویس و سازنده نرم‌افزار با حدود **۱۳ سال سابقه برنامه‌نویسی**. بنیان‌گذار برند **MilMit** و عضو **Google Developer Program** هستم.
 
-تمرکز اصلی من روی توسعه نرم‌افزارهای لینوکس، برنامه‌های دسکتاپ، ابزارهای سیستمی و شبکه، اتوماسیون، وردپرس، ووکامرس و یکپارچه‌سازی API است. در کنار برنامه‌نویسی، سابقه پژوهش علمی در زمینه آلفا توکوفرول سوکسینات و آسیب سلولی ناشی از نانوذرات را نیز دارم.
+تخصص‌های من شامل **Linux، Android، Flutter و Java** است و روی برنامه‌های دسکتاپ و موبایل، ابزارهای سیستمی و شبکه، اتوماسیون، وردپرس، ووکامرس و یکپارچه‌سازی API کار می‌کنم. در کنار برنامه‌نویسی، سابقه پژوهش علمی در زمینه آلفا توکوفرول سوکسینات و آسیب سلولی ناشی از نانوذرات را نیز دارم.
 
 ## Connect
 
