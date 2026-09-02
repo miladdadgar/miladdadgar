@@ -1,64 +1,98 @@
 <div align="center">
 
-# Milad Dadgar
+![Milad Dadgar — Software Builder](./assets/header.svg)
 
-### Software Builder · Linux Desktop · Open-Source Tools
+### Building useful, secure, and human-centered software since ~2013
 
-Creator of [MilMit](https://github.com/MilMit), building practical software with a focus on Linux, desktop applications, system utilities, privacy, and automation.
+[![Google Developer Program](https://img.shields.io/badge/Google_Developer_Program-Member-4285F4?style=flat-square&logo=google&logoColor=white)](#)
+[![MilMit](https://img.shields.io/badge/Creator_of-MilMit-181717?style=flat-square&logo=github)](https://github.com/MilMit)
+[![Website](https://img.shields.io/badge/Website-milmit.net-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://milmit.net)
 
-[![MilMit](https://img.shields.io/badge/MilMit-Organization-181717?style=for-the-badge&logo=github)](https://github.com/MilMit)
-[![Website](https://img.shields.io/badge/Website-milmit.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://milmit.net)
+**English** · [فارسی](#خلاصه-فارسی)
 
 </div>
 
-## What I build
+## About me
 
-- Native and desktop-focused Linux applications
-- Safety-conscious system maintenance and diagnostic tools
-- Privacy-aware automation and networking utilities
-- WordPress, WooCommerce, API, and integration solutions
-- Open-source products published through **MilMit**
+I am **Milad Dadgar**, a software builder with approximately **13 years of programming experience**. I create practical products across Linux desktop software, system utilities, privacy-aware automation, networking, WordPress, WooCommerce, and API integrations.
 
-## Featured projects
+I am the creator of **[MilMit](https://github.com/MilMit)** and a **member of the Google Developer Program**. My work favors clear architecture, honest capability claims, secure privilege boundaries, reproducible releases, and software that solves real problems.
+
+## Core areas
+
+| Area | Technologies and focus |
+| --- | --- |
+| Linux desktop | Rust, GTK4, Libadwaita, Electron |
+| Web and commerce | WordPress, WooCommerce, PHP, JavaScript |
+| Systems and networks | Linux, VPN, IKEv2, WireGuard, automation |
+| Product engineering | UX, packaging, CI/CD, security, documentation |
+
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [LinuxCare](https://github.com/MilMit/LinuxCare-App)
 
-A safety-first Linux maintenance, diagnostics, and health-intelligence application built natively with **Rust, GTK4, and Libadwaita**. It uses narrow privilege boundaries, Polkit, reversible cleanup where possible, and evidence-based system diagnostics.
+Safety-first Linux maintenance, diagnostics, and health intelligence built with **Rust, GTK4, and Libadwaita**. Designed around narrow Polkit boundaries, evidence-based diagnostics, and reversible actions where reversal is real.
+
+</td>
+<td width="50%" valign="top">
 
 ### [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)
 
-An unofficial ChatGPT desktop application for Linux with isolated profiles, native desktop workflows, quick capture, workspaces, diagnostics, privacy-aware local history, and Linux release packaging.
+An unofficial ChatGPT desktop experience for Linux with isolated profiles, native workflows, Quick Capture, workspaces, diagnostics, privacy-aware local history, and verified Linux release artifacts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
 
-An unofficial, Ubuntu-first IKEv2 client project using a StrongSwan backend, secure secret storage, offline-capable location data, and a deliberately narrow privileged boundary.
+An unofficial Ubuntu-first IKEv2 client project with StrongSwan, secure secret storage, offline-capable location data, and a deliberately narrow privileged boundary.
 
-### [NordVPN WireGuard Config Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)
+</td>
+<td width="50%" valign="top">
 
-A lightweight Linux utility for extracting NordLynx/WireGuard configurations and generating mobile-friendly QR codes.
+### [NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)
+
+A lightweight Linux utility that extracts NordLynx/WireGuard configurations and produces mobile-friendly QR codes.
+
+</td>
+</tr>
+</table>
 
 ## Research
 
-Alongside software development, I have worked in biomedical research involving **alpha-tocopherol succinate** and nanoparticle-induced cellular damage.
+My background also includes biomedical research involving **alpha-tocopherol succinate** and nanoparticle-induced cellular damage.
 
-**Publication:**  
-“Protective effect of alpha-tocopherol succinate on Al₂O₃-NPs induced damage in NMRI mice Sertoli cells: the role of inhibin B and Connexin 43”  
-*Molecular Biology Reports* (2026) · [DOI: 10.1007/s11033-026-11566-8](https://doi.org/10.1007/s11033-026-11566-8) · PMID: 41774233
+> **“Protective effect of alpha-tocopherol succinate on Al₂O₃-NPs induced damage in NMRI mice Sertoli cells: the role of inhibin B and Connexin 43”**  
+> *Molecular Biology Reports* (2026)  
+> [DOI: 10.1007/s11033-026-11566-8](https://doi.org/10.1007/s11033-026-11566-8) · PMID: 41774233
 
-## Current focus
+## Engineering principles
 
-- Improving LinuxCare for real-world Ubuntu and GNOME systems
-- Building reliable Linux desktop experiences
-- Developing MilMit as a home for useful software and digital products
-- Making projects easier to install, verify, understand, and contribute to
+- Security boundaries should be narrow, explicit, and reviewable.
+- Product claims must match what the software can actually do.
+- Maintenance actions should be reversible whenever reversal is technically real.
+- Releases should be testable, traceable, documented, and easy to verify.
+- Good software must respect the user's privacy, time, and attention.
+
+## خلاصه فارسی
+
+من **میلاد دادگر** هستم؛ برنامه‌نویس و سازنده نرم‌افزار با حدود **۱۳ سال سابقه برنامه‌نویسی**. بنیان‌گذار برند **MilMit** و عضو **Google Developer Program** هستم.
+
+تمرکز اصلی من روی توسعه نرم‌افزارهای لینوکس، برنامه‌های دسکتاپ، ابزارهای سیستمی و شبکه، اتوماسیون، وردپرس، ووکامرس و یکپارچه‌سازی API است. در کنار برنامه‌نویسی، سابقه پژوهش علمی در زمینه آلفا توکوفرول سوکسینات و آسیب سلولی ناشی از نانوذرات را نیز دارم.
 
 ## Connect
 
-- GitHub organization: [MilMit](https://github.com/MilMit)
-- Website: [milmit.net](https://milmit.net)
+- **GitHub organization:** [MilMit](https://github.com/MilMit)
+- **Website:** [milmit.net](https://milmit.net)
 
 ---
 
 <div align="center">
-  <sub>Milad Dadgar · Building practical software under MilMit</sub>
+  <sub>Milad Dadgar · میلاد دادگر · Building practical software under MilMit</sub>
 </div>
